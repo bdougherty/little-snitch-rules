@@ -1,0 +1,177 @@
+{
+  "description" : "",
+  "name" : "Browsers",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1541820013.7900901,
+      "modificationDate" : 1541820013.7900901,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/Safari Technology Preview.app\/Contents\/Frameworks\/WebKit.framework\/Versions\/A\/XPCServices\/com.apple.WebKit.Networking.xpc\/Contents\/MacOS\/com.apple.WebKit.Networking",
+      "protocol" : "tcp",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1541819981.991004,
+      "modificationDate" : 1541819981.991004,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Safari Technology Preview.app\/Contents\/Frameworks\/WebKit.framework\/Versions\/A\/XPCServices\/com.apple.WebKit.Networking.xpc\/Contents\/MacOS\/com.apple.WebKit.Networking",
+      "protocol" : "tcp",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1541437155.5054059,
+      "modificationDate" : 1541437155.5054059,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox",
+      "protocol" : "tcp",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1541435689.5185561,
+      "modificationDate" : 1541437152.3041801,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox",
+      "protocol" : "tcp",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1541819096.00927,
+      "modificationDate" : 1541819690.656661,
+      "owner" : "me",
+      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+      "remote-hosts" : "mtalk.google.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1541437606.1717858,
+      "modificationDate" : 1541437606.1717858,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+      "protocol" : "tcp",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1541435678.468446,
+      "modificationDate" : 1541437603.601428,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+      "protocol" : "tcp",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1541819610.5815659,
+      "modificationDate" : 1541819662.92593,
+      "notes" : "Allow Google Meet.",
+      "owner" : "me",
+      "ports" : "19302",
+      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+      "protocol" : "udp",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1541819508.5152211,
+      "modificationDate" : 1541819666.4045339,
+      "notes" : "Allow Google Meet.",
+      "owner" : "me",
+      "ports" : "19305",
+      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+      "protocol" : "tcp",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1541819477.3843689,
+      "modificationDate" : 1541819670.1312399,
+      "notes" : "Allow Google Meet.",
+      "owner" : "me",
+      "ports" : "19305",
+      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+      "protocol" : "udp",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1541447785.557548,
+      "modificationDate" : 1541814628.3475652,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/brad\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/Resources\/GoogleSoftwareUpdateAgent.app\/Contents\/MacOS\/GoogleSoftwareUpdateAgent",
+      "protocol" : "tcp",
+      "remote-hosts" : "tools.google.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1541820168.8480749,
+      "modificationDate" : 1541820168.8480749,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/brad\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/MacOS\/ksfetch",
+      "protocol" : "tcp",
+      "remote-hosts" : "dl.google.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1541447779.0660791,
+      "modificationDate" : 1541814738.9808459,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Users\/brad\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/MacOS\/ksfetch",
+      "protocol" : "tcp",
+      "remote-hosts" : "tools.google.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1541435663.341105,
+      "modificationDate" : 1541437568.930644,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "protocol" : "tcp",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1541437571.926343,
+      "modificationDate" : 1541437571.926343,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "protocol" : "tcp",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1541820025.806536,
+      "modificationDate" : 1541820025.806536,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/Safari Technology Preview.app\/Contents\/MacOS\/Safari Technology Preview",
+      "protocol" : "tcp",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1541819988.9329491,
+      "modificationDate" : 1541819988.9329491,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Safari Technology Preview.app\/Contents\/MacOS\/Safari Technology Preview",
+      "protocol" : "tcp",
+      "remote" : "any"
+    }
+  ]
+}
