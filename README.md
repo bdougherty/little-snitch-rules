@@ -4,13 +4,11 @@ These are [rule groups](https://help.obdev.at/littlesnitch/#/lsc-rule-group-subs
 
 ## Available Rule Groups
 
-#### [Browsers](rules/browsers.lsrules)
+### Browsers
 
 Rules for Chrome, Firefox, and Safari.
 
-```text
-https://github.com/bdougherty/little-snitch-rules/raw/master/rules/browsers.lsrules
-```
+[Subscribe](https://github.com/bdougherty/little-snitch-rules/raw/master/rules/browsers.lsrules)
 
 ## License
 
