@@ -8,7 +8,7 @@ These are [rule groups](https://help.obdev.at/littlesnitch/#/lsc-rule-group-subs
 
 Rules for Chrome, Firefox, and Safari.
 
-[Subscribe](https://github.com/bdougherty/little-snitch-rules/raw/master/rules/browsers.lsrules)
+[Subscribe](x-littlesnitch:subscribe-rules?url=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%2Fbdougherty%2Flittle%2Dsnitch%2Drules%2Fmaster%2Frules%2Fbrowsers%2Elsrules)
 
 ## License
 
