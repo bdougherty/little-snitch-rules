@@ -134,6 +134,66 @@
       "remote-hosts" : "tools.google.com"
     },
     {
+      "action": "allow",
+      "creationDate": 1558370335.1931601,
+      "modificationDate": 1558382472.7796869,
+      "owner": "me",
+      "ports": "80",
+      "process": "\/Applications\/Microsoft Edge Canary.app\/Contents\/MacOS\/Microsoft Edge Canary",
+      "protocol": "tcp",
+      "remote": "any"
+    },
+    {
+      "action": "allow",
+      "creationDate": 1558370395.661108,
+      "modificationDate": 1558370395.661108,
+      "owner": "me",
+      "ports": "443",
+      "process": "\/Applications\/Microsoft Edge Canary.app\/Contents\/MacOS\/Microsoft Edge Canary",
+      "protocol": "tcp",
+      "remote": "any"
+    },
+    {
+      "action": "allow",
+      "creationDate": 1558382578.6300511,
+      "modificationDate": 1558382578.6300511,
+      "owner": "me",
+      "ports": "443",
+      "process": "\/Applications\/Microsoft Edge Canary.app\/Contents\/MacOS\/Microsoft Edge Canary",
+      "protocol": "udp",
+      "remote": "any"
+    },
+    {
+      "action": "allow",
+      "creationDate": 1559915855.500596,
+      "modificationDate": 1559915909.7673988,
+      "owner": "me",
+      "ports": "80",
+      "process": "\/Applications\/Microsoft Edge Dev.app\/Contents\/MacOS\/Microsoft Edge Dev",
+      "protocol": "tcp",
+      "remote": "any"
+    },
+    {
+      "action": "allow",
+      "creationDate": 1559915915.719645,
+      "modificationDate": 1559915915.719645,
+      "owner": "me",
+      "ports": "443",
+      "process": "\/Applications\/Microsoft Edge Dev.app\/Contents\/MacOS\/Microsoft Edge Dev",
+      "protocol": "tcp",
+      "remote": "any"
+    },
+    {
+      "action": "allow",
+      "creationDate": 1559915924.9857731,
+      "modificationDate": 1559915924.9857731,
+      "owner": "me",
+      "ports": "443",
+      "process": "\/Applications\/Microsoft Edge Dev.app\/Contents\/MacOS\/Microsoft Edge Dev",
+      "protocol": "udp",
+      "remote": "any"
+    },
+    {
       "action" : "allow",
       "creationDate" : 1541435663.341105,
       "modificationDate" : 1541437568.930644,
