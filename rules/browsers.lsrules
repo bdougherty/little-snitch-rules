@@ -81,39 +81,6 @@
     },
     {
       "action" : "allow",
-      "creationDate" : 1541819610.5815659,
-      "modificationDate" : 1541819662.92593,
-      "notes" : "Allow Google Meet.",
-      "owner" : "me",
-      "ports" : "19302",
-      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
-      "protocol" : "udp",
-      "remote" : "any"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1541819508.5152211,
-      "modificationDate" : 1541819666.4045339,
-      "notes" : "Allow Google Meet.",
-      "owner" : "me",
-      "ports" : "19305",
-      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
-      "protocol" : "tcp",
-      "remote" : "any"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1541819477.3843689,
-      "modificationDate" : 1541819670.1312399,
-      "notes" : "Allow Google Meet.",
-      "owner" : "me",
-      "ports" : "19305",
-      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
-      "protocol" : "udp",
-      "remote" : "any"
-    },
-    {
-      "action" : "allow",
       "creationDate" : 1541447785.557548,
       "modificationDate" : 1541814628.3475652,
       "owner" : "me",
