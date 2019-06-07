@@ -69,6 +69,15 @@
       "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
       "protocol" : "tcp",
       "remote" : "any"
+    }, {
+      "action": "allow",
+      "creationDate": 1541435678.468446,
+      "modificationDate": 1541437603.601428,
+      "owner": "me",
+      "ports": "443",
+      "process": "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+      "protocol": "udp",
+      "remote": "any"
     },
     {
       "action" : "allow",
